@@ -47,6 +47,7 @@ key 25    P
 key 26    LEFT_BRACKET
 key 27    RIGHT_BRACKET
 key 43    BACKSLASH
+key 41    DPAD_CENTER
 
 key 30    A
 key 31    S
@@ -60,7 +61,7 @@ key 38    L
 key 39    SEMICOLON
 key 40    APOSTROPHE
 key 14    DEL
-        
+
 key 44    Z
 key 45    X
 key 46    C
@@ -72,7 +73,7 @@ key 51    COMMA
 key 52    PERIOD
 key 53    SLASH
 key 28    ENTER
-        
+
 key 56    ALT_LEFT
 key 100   ALT_RIGHT
 key 42    SHIFT_LEFT
@@ -80,7 +81,7 @@ key 54    SHIFT_RIGHT
 key 15    TAB
 key 57    SPACE
 key 150   EXPLORER
-key 155   ENVELOPE        
+key 155   ENVELOPE
 
 key 12    MINUS
 key 13    EQUALS
